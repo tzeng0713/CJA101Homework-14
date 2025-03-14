@@ -65,7 +65,7 @@ public class Hw_1 {
 		}
 		
 		System.out.println("\n第七題");
-		char A = 'A';
+//		char A = 'A';
 //		System.out.println((int)A); 印出65
 		int count2 = 0;
 		for(i = 65; i <= 70; i++) {
