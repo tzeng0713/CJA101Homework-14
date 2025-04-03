@@ -13,7 +13,7 @@ public class Hw_1 {
 		
 		while(true) {
 			
-			sc.nextLine();
+//			sc.nextLine();
 			if (sc.hasNextDouble()) {
 				double a = sc.nextDouble();
 				if (sc.hasNextDouble()) {
